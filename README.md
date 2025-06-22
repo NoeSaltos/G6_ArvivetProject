@@ -13,7 +13,7 @@ To ensure traceability, and accountability within the development process. This 
 - Follow-up on responsibilities and deadlines
 
 
-> 📎 For a formatted document version of this index, refer to [`ARVIVET_Communications_Evidence.docx`](./ARVIVET_Communications_Evidence.docx)
+> 📎 For a formatted document version of this index, refer to [`ARVIVET_Communications_index.docx`](./ARVIVET_Communications_index.docx)
 
 
 ## 🧾 Notes
